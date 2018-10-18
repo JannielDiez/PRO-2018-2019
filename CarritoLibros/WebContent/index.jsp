@@ -34,7 +34,7 @@
       </form>
     <p/>
 <%  // Scriptlet 3: check whether the shopping cart is empty
-    Vector shoplist = (Vector)session.getValue("ebookshop.cart");
+    Vector shoplist = (Vector)session.getValue("carrito");
     if (shoplist != null  &&  shoplist.size() > 0) {
   %>
       <table border="1" cellpadding="2">
