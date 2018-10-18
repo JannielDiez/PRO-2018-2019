@@ -14,5 +14,7 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/JannielDiez/Desktop/tomcat-juli-8.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/tomcat/webapps/examples/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/tomcat/webapps/examples/WEB-INF/lib/standard.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
